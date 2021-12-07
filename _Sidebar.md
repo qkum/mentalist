@@ -1,0 +1,26 @@
+## [Home](https://github.com/sc0tfree/mentalist/wiki/Home)
+## [Installation](https://github.com/sc0tfree/mentalist/wiki/Installation)
+1. [Prebuilt Applications](https://github.com/sc0tfree/mentalist/wiki/Installation#prebuilt-applications)
+2. [Install from Source](https://github.com/sc0tfree/mentalist/wiki/Installation#install-from-source)
+3. [Rebuilding Applications](https://github.com/sc0tfree/mentalist/wiki/Installation#rebuilding-applications)
+4. [Running Tests](https://github.com/sc0tfree/mentalist/wiki/Installation#running-tests)
+
+## [How It Works](https://github.com/sc0tfree/mentalist/wiki/How-It-Works)
+1. [The Chain](https://github.com/sc0tfree/mentalist/wiki/How-It-Works#the-chain)
+2. [Nodes](https://github.com/sc0tfree/mentalist/wiki/How-It-Works#nodes)
+3. [Attributes](https://github.com/sc0tfree/mentalist/wiki/How-It-Works#attributes)
+
+## [Node Attributes](https://github.com/sc0tfree/mentalist/wiki/Node-Attributes)
+1. [Base Words](https://github.com/sc0tfree/mentalist/wiki/Node-Attributes#base-words)
+2. [Case](https://github.com/sc0tfree/mentalist/wiki/Node-Attributes#case)
+3. [Substitution](https://github.com/sc0tfree/mentalist/wiki/Node-Attributes#substitution)
+4. [Append/Prepend](https://github.com/sc0tfree/mentalist/wiki/Node-Attributes#append--prepend)
+
+## [Output](https://github.com/sc0tfree/mentalist/wiki/Output)
+1. [Full Wordlist](https://github.com/sc0tfree/mentalist/wiki/Output#full-wordlist)
+2. [Hashcat/John Rules](https://github.com/sc0tfree/mentalist/wiki/Output#hashcatjohn-rules)
+3. [Base Words Only](https://github.com/sc0tfree/mentalist/wiki/Output#base-words-only)
+
+## [Persistence](https://github.com/sc0tfree/mentalist/wiki/Persistence)
+1. [Saving Chains](https://github.com/sc0tfree/mentalist/wiki/Persistence#saving-chains)
+2. [Loading Chains](https://github.com/sc0tfree/mentalist/wiki/Persistence#loading-chains)
